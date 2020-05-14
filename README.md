@@ -6,19 +6,9 @@
 
 ## 最重要的事 :arrow_forward:
 
-> [软技能]()(已完成，待记录）
+> 软技能 (已完成，待记录）
 
-主要归纳自：
-
-- **《自控力》（已完成，待记录）**
-- **《番茄工作法图解》（已完成，待记录）**
-
-- **《软技能-代码之外的生存指南》（已完成，待记录）**
-- **《跃迁 从技术到管理的硅谷路径》（已完成，待记录）**
-- **《细节 如何轻影响他人》（已完成，待记录）**
-- **《精进 如何成为一个很厉害的人》（已完成，待记录）**
-
-- **《所谓情商高就是会说话》（已完成，待记录）**
+**[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
 
 ## 计算机基础 :computer:
@@ -68,25 +58,21 @@
 
 ### 网络
 
-> [网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
+> [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)（进行中~）
 
 主要归纳自:
 
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
-
 - **《计算机网络：自顶向下方法》(原书第6版)**
-
-> 网络协议
-
 - **极客时间之《趣谈网络协议》**
-- 《图解TCP/IP》
 
+- 《图解TCP/IP》
 - 极客时间之《透视HTTP协议》
 - 《HTTP权威指南》
 
 > 网络抓包
 
-- 极客时间之《Web协议详解与抓包实战》
+- **极客时间之《Web协议详解与抓包实战》**
 
 
 ### 数据库
@@ -211,9 +197,9 @@
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)（进行中~）**
 
 
-**2、基础架构方向（强烈推荐）（进行中~）**
+**2、基础架构方向（强烈推荐）**
 
-**[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)（进行中~）**
+**[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
 **3、大前端方向（推荐）**
