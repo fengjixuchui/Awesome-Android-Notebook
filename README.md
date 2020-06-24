@@ -21,15 +21,15 @@
 
 - 极客时间之《深入浅出计算机组成原理》
 
-### 操作系统
+### 操作系统（重点）
  
-> [现代操作系统]()
+> [现代操作系统]()（进行中~）
   
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
 
 - 《现代操作系统》(原书第四版)
 
-> [Linux基础]()
+> [Linux基础]()（进行中~）
 
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**
 
@@ -225,7 +225,7 @@
 
 **1、性能优化方向（强烈推荐）（进行中~）**
 
-**[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)（进行中~）**
+**[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
 
 **2、基础架构方向（强烈推荐）**
@@ -238,7 +238,7 @@
 **[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
 
 
-**4、NDK、音视频方向（推荐）**
+**4、NDK、音视频方向（推荐）（进行中~）**
 
 **[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
@@ -310,6 +310,15 @@ Python核心基础学习笔记。
 * 明确署名，即至少注明 `作者：JsonChao` 字样以及文章的原始链接，且不得使用 `rel="nofollow"` 标记。
 * 商业用途请以邮件方式联系本人。
 * 微信公众号转载一律不授权 `原创` 标志。
+
+
+## 公众号
+
+我的公众号 `JsonChao` 开通啦，如果您想第一时间获取最新文章和最新动态，欢迎扫描关注~
+
+<div align="center">
+<img src="https://user-gold-cdn.xitu.io/2020/6/11/172a29b8b626ef93?w=258&h=258&f=jpeg&s=28705" width=30%>
+</div>
 
 
 ## 赞赏
