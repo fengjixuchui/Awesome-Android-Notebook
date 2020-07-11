@@ -11,7 +11,7 @@
 **[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
 
-## 计算机基础 :computer:
+## 计算机基础 :computer:（进行中~）
 
 ### 计算机组成原理
 
@@ -23,13 +23,13 @@
 
 ### 操作系统（重点）
  
-> [现代操作系统]()（进行中~）
+> [现代操作系统]()
   
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
 
 - 《现代操作系统》(原书第四版)
 
-> [Linux基础]()（进行中~）
+> [Linux基础]()
 
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**
 
@@ -56,13 +56,13 @@
 - **《性能之巅》**
 
 
-### 网络（重点）
+### 网络（重点）（进行中~）
 
-> [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)（进行中~）
+> [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)
 
 #### 综合实战
 
-- **极客时间之《Web 协议详解与抓包实战》**（进行中~）
+- **极客时间之《Web 协议详解与抓包实战》**
 
 
 #### 网络基础
@@ -73,7 +73,7 @@
 
 #### 网络进阶
 
-- HTTP 1.1 —— **《HTTP 权威指南》** （进行中~）
+- HTTP 1.1 —— **《HTTP 权威指南》** 
 - HTTP 2.0 —— **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**
 - TCP/IP —— **《TCP/IP 详解（卷一：协议）》**
 
@@ -92,8 +92,6 @@
 
 
 > [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
-
-#### 深入剖析现代加密技术 
 
 - **《图解密码技术》**
 
@@ -223,24 +221,24 @@
 
 ## 细分领域专家 :rocket:
 
-**1、性能优化方向（强烈推荐）（进行中~）**
+**1、性能优化方向（强烈推荐）**
 
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
 
-**2、基础架构方向（强烈推荐）**
+**2、NDK、音视频方向（强烈推荐）（进行中~）**
+
+**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
+
+
+**3、基础架构方向（强烈推荐）**
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
-**3、大前端方向（推荐）**
+**4、大前端方向（强烈推荐）**
 
 **[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
-
-
-**4、NDK、音视频方向（推荐）（进行中~）**
-
-**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
 **5、AI方向**
