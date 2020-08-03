@@ -4,34 +4,36 @@
 
 ## 注意：标粗的为必读，需要进行三步读书法～
 
-## 最重要的事 :arrow_forward:
+## 最重要的事 :arrow_forward:（已完成）
 
-> 软技能 (已完成，待记录）
+> 软技能 (已完成）
 
 **[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
 
-## 计算机基础 :computer:（进行中~）
+## 计算机基础 :computer:
 
 ### 计算机组成原理
 
 > [计算机组成原理](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
-- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
+- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**（已完成）
 
 - 极客时间之《深入浅出计算机组成原理》
 
 ### 操作系统（重点）
  
-> [现代操作系统]()
+> [现代操作系统]()（进行中~）
   
-- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
+- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**（进行中~）
+- **慕课网之《大学计算机必修课新讲--编译原理+操作系统+图形学》**（进行中~）
 
 - 《现代操作系统》(原书第四版)
 
 > [Linux基础]()
 
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**
+- **慕课网之《大学计算机必修课新讲--编译原理+操作系统+图形学》**
 
 - 《Linux私房菜 基础学习篇》(第三版)
 - 《深入理解计算机系统》(原书第三版)
@@ -73,9 +75,9 @@
 
 #### 网络进阶
 
-- HTTP 1.1 —— **《HTTP 权威指南》** 
-- HTTP 2.0 —— **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**
-- TCP/IP —— **《TCP/IP 详解（卷一：协议）》**
+- HTTP 1.1 —— **《HTTP 权威指南》** （已完成）
+- HTTP 2.0 —— **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**（已完成）
+- TCP/IP —— **《TCP/IP 详解（卷一：协议）》**（进行中~）
 
 
 #### 网络优化
@@ -91,7 +93,7 @@
 
 
 
-> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
+> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)（推荐）
 
 - **《图解密码技术》**
 
@@ -131,6 +133,7 @@
 
 > 编译原理基础
 
+- **慕课网之《大学计算机必修课新讲--编译原理+操作系统+图形学》**
 - 极客时间之《编译原理之美》
 
 - 《编码 隐匿在计算机软硬件背后的语言》
@@ -141,6 +144,13 @@
 - 《计算机程序的构造和解释》
 
 - 《程序员的自我修养——链接、装载与库》
+
+
+### 图形学
+
+> 图形学基础
+
+- **慕课网之《大学计算机必修课新讲--编译原理+操作系统+图形学》**
 
 
 ## 算法 :pencil2:
