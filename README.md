@@ -95,13 +95,12 @@
 
 > [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)（推荐）
 
-- **《图解密码技术》**
+- **《图解密码技术》**（进行中~）
 
 
 #### 深入了解常见安全漏洞及解决方案
 
 - **《白帽子讲 Web 安全》**
-
 
 #### 安全知识体系化深度构建
 
