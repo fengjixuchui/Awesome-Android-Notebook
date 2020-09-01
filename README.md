@@ -69,7 +69,7 @@
 
 #### 网络基础
 
-- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  （已完成）
+- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**（已完成）
 - **极客时间之《趣谈网络协议》**（已完成）
 
 
@@ -82,12 +82,12 @@
 
 #### 网络优化
 
-- **《Web 性能权威指南》**
+- **《Web 性能权威指南》**（已完成）
 
 
 #### 备选项
 
-- 《计算机网络：自顶向下方法》(原书第6版)
+- 《计算机网络：自顶向下方法》(原书第6版)（已完成）
 - 极客时间之《透视 HTTP 协议》
 - 《图解 TCP/IP》
 
@@ -95,7 +95,7 @@
 
 > [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)（推荐）
 
-- **《图解密码技术》**（进行中~）
+- **《图解密码技术》**（已完成）
 
 
 #### 深入了解常见安全漏洞及解决方案
@@ -230,7 +230,7 @@
 
 ## 细分领域专家 :rocket:
 
-**1、性能优化方向（强烈推荐）**
+**1、性能优化方向（强烈推荐）（进行中~）**
 
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
@@ -240,7 +240,7 @@
 **[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
-**3、基础架构方向（强烈推荐）**
+**3、基础架构方向（强烈推荐）（进行中~）**
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
