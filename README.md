@@ -13,7 +13,7 @@
 
 ## 计算机基础 :computer:
 
-### 计算机组成原理
+### 计算机组成原理（进行中~）
 
 > [计算机组成原理](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
@@ -21,7 +21,7 @@
 
 - 极客时间之《深入浅出计算机组成原理》
 
-### 操作系统（重点）
+### 操作系统（重点）（进行中~）
  
 > [现代操作系统]()（进行中~）
   
@@ -245,12 +245,12 @@
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
-**4、大前端方向（强烈推荐）**
+4、大前端方向（强烈推荐）
 
 **[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
 
 
-**5、AI方向**
+5、AI方向
 
 > 数学基础
 
