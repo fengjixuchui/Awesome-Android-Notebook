@@ -21,7 +21,7 @@
 
 - 极客时间之《深入浅出计算机组成原理》
 
-### 操作系统（重点）
+### 操作系统
  
 > [现代操作系统]()（进行中~）
   
@@ -58,7 +58,7 @@
 - **《性能之巅》**
 
 
-### 网络（重点）
+### 网络（重点）（进行中~）
 
 > [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)
 
@@ -145,13 +145,6 @@
 - 《程序员的自我修养——链接、装载与库》
 
 
-### 图形学
-
-> 图形学基础
-
-- **慕课网之《大学计算机必修课新讲--编译原理+操作系统+图形学》**
-
-
 ## 算法 :pencil2:
 
 > **[从零到一构建算法知识地图](https://github.com/JsonChao/Awesome-Algorithm-Study)（进行中~）**
@@ -171,23 +164,23 @@
 - **《Android源码设计模式解析与实战》（已完成，待记录）**
 
 
-## Java :coffee:
+## Java :coffee:（重点）
 
-> Java基础 
+> Java基础 （进行中~）
 
 - **极客时间之《Java核心技术36讲》**
 
 - 《Java核心技术 卷I》
 - 《Java编程思想》
 
-> Java并发
+> Java并发（进行中~）
 
 - **极客时间之《Java并发编程实战》**
 
 - **《Java并发编程实战》**
 - **《Java并发编程的艺术》**
 
-> JVM
+> JVM（进行中~）
 
 - **极客时间之《深入拆解Java虚拟机》**
 - **《深入理解Java虚拟机》**
@@ -205,7 +198,7 @@
 
 ## Kotlin :fire:
 
-> Kotlin之旅
+> Kotlin之旅（进行中~）
 
 -  **慕课网之《Kotlin系统入门》**
 -  **极客时间之《快速上手Kotlin开发》**
@@ -219,30 +212,27 @@
 
 - **~~《第一行代码》（已完成）~~**
 
-> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
+> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)（已完成）
 
 - **《Android进阶之光》 （已完成，待记录）**
 - **《Android开发艺术探索》 （已完成，待记录）**
 
-- 网易工程师带你突破Android技术瓶颈之高级UI模块
-- 动脑学院高级Android之高级UI模块
-
 
 ## 细分领域专家 :rocket:
 
-**1、性能优化方向（强烈推荐）（进行中~）**
+**1、性能优化方向（强烈推荐）**
 
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
 
-**2、NDK、音视频方向（强烈推荐）**
-
-**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
-
-
-**3、基础架构方向（强烈推荐）（进行中~）**
+**2、基础架构方向（强烈推荐）（进行中~）**
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
+
+
+**3、NDK、音视频方向（强烈推荐）**
+
+**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
 4、大前端方向（强烈推荐）
