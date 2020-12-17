@@ -166,21 +166,21 @@
 
 ## Java :coffee:（重点）
 
-> Java基础 （进行中~）
+> Java基础 
 
 - **极客时间之《Java核心技术36讲》**
 
 - 《Java核心技术 卷I》
 - 《Java编程思想》
 
-> Java并发（进行中~）
+> Java并发
 
 - **极客时间之《Java并发编程实战》**
 
 - **《Java并发编程实战》**
 - **《Java并发编程的艺术》**
 
-> JVM（进行中~）
+> JVM
 
 - **极客时间之《深入拆解Java虚拟机》**
 - **《深入理解Java虚拟机》**
@@ -230,12 +230,12 @@
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
-**3、NDK、音视频方向（强烈推荐）**
+**3、NDK、音视频方向**
 
 **[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
-4、大前端方向（强烈推荐）
+4、大前端方向
 
 **[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
 
