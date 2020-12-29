@@ -198,7 +198,7 @@
 
 ## Kotlin :fire:
 
-> Kotlin之旅（进行中~）
+> Kotlin之旅
 
 -  **慕课网之《Kotlin系统入门》**
 -  **极客时间之《快速上手Kotlin开发》**
@@ -220,7 +220,7 @@
 
 ## 细分领域专家 :rocket:
 
-**1、性能优化方向（强烈推荐）**
+**1、性能优化方向（强烈推荐）（进行中~）**
 
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
